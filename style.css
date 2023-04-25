@@ -1,0 +1,227 @@
+
+#butty{
+    border-radius: 10%;
+    padding: 1%;
+    color:black;background-color:rgb(89, 135, 89);
+    padding: 8px;
+    border-color: chartreuse;
+
+
+    
+
+}
+#listi{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40%;
+    color: aliceblue;
+}
+#hom{
+    color: chartreuse;
+}
+.bod{
+    background-color: #495057;
+    font-family: 'Abel', sans-serif;
+     font-family: 'Lora', serif;
+     /* font-family: 'Shantell Sans', cursive; */
+     font-size: 20px;
+     overflow-x: hidden;
+     
+}
+
+.firstwords{
+    color: aliceblue;
+    margin: 0%;
+}
+.secondwords{
+    color: rgb(52, 107, 208);
+    margin-bottom: 3%;
+}
+.thirdwords{
+    color: rgb(148, 158, 167);
+    margin-bottom: 4%;
+}
+.words{
+    margin-left: 5%;
+}
+.smallwords{
+    margin-left: 5%;
+    color: aliceblue;
+}
+#get{
+    border-radius: 10%;
+    padding: 1%;
+    color:black;
+    padding: 8px;
+    background-color: #7fff00;
+    border-color: #7fff00;
+    margin-left: 6%;
+    
+    
+
+
+
+}
+#lists{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0%;
+    color: black;
+    background: #7cda1d;
+    padding: 3%;
+    
+}
+.build{
+    color: white;
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+#more{
+    color: darkcyan;
+}
+#list{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0%;
+    color: white;
+    background: rgb(115, 111, 111);
+    padding: 3%;
+    
+}
+#bu{
+    padding-inline: 30%;
+    border-radius: 35%;
+    margin: 26%;
+    margin-inline: 30%;
+    border-color: deeppink;
+
+}
+#buttony{
+    padding-inline: 3%;
+    margin-inline: 8%;
+    height: 250px;
+    border-radius: 15%;
+    color: white;
+    background-color: rgb(46, 47, 45);
+    margin-bottom: -20%;
+   
+   
+   
+  
+ 
+}
+#buttonyy{
+    padding-inline: 3%;
+    margin-inline: 8%;
+    height: 250px;
+    border-radius: 15%;
+    color: white;
+    background-color: rgb(46, 47, 45);
+    margin-top: 5%;
+    margin-left: 35%;
+   
+   
+
+}
+#buttonyyy{
+    padding-inline: 3%;
+    margin-inline: 8%;
+    height: 250px;
+    border-radius: 15%;
+    color: white;
+    background-color: rgb(46, 47, 45);
+    /* margin-left: 35%;
+    margin-top: -45%; */
+    margin-top: -15%;
+   
+   
+   
+   
+}
+.wordy{
+    color: white;
+    margin-top: -33%;
+    margin-left: 55%;
+}
+.word2{
+    margin-top: 30%;
+    color: white;
+    margin-left: 10%;
+}
+#money{
+    height: 320px;
+    width: 220px;
+    border-radius: 15%;
+    background-color: blue;
+    border-color: blue;
+    margin-top: -35%;
+    margin-left: 35%;
+}
+#moneyy{
+    height: 320px;
+    width: 220px;
+    border-radius: 15%;
+    background-color: #ff00ee;
+    border-color: #ff00bb;
+    margin-top: -65%;
+    margin-left: 55%;
+
+}
+#exp{
+    border-radius: 15%;
+    padding: 5px;
+    background-color: #7cda1d;
+    border-color: #7fff00;
+}
+.many{
+    color: white;
+    margin-left: 55%;
+}
+#eye{
+    padding: 38px;
+    background-color: rgb(110, 141, 110);
+    border-color: #7fff00;
+    border-radius: 15%;
+    margin-left: 60%;
+}
+#clarity{
+    color: white;
+    margin-left: 70%;
+    margin-top: -29%;
+}
+#confidence{
+    color: white;
+    margin:-35% ;
+
+}
+#community{
+    color: white;
+    margin-left: 71%;
+    margin-top: 62%;
+
+
+
+}
+#beat{
+    border-radius: 5%;
+    height: 280px;
+    margin-left: 55%;
+    margin-top: 15%;
+}
+
+    
+.words3{
+    color: white;
+    margin-left: 15%;
+    margin-top: -20%;
+}
+#green{
+    color: #7cda1d;
+    margin-left: 15%;
+}
+#mixed{
+   margin-left: 15%;
+}
