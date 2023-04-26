@@ -1,4 +1,6 @@
-
+body{
+    
+}
 #butty{
     border-radius: 10%;
     padding: 1%;
@@ -19,8 +21,56 @@
 #hom{
     color: chartreuse;
 }
+.images{
+    flex-direction: column;
+}
+#broke1{
+    width: 50px;
+    height: 50px;
+}
+#broke2{
+    width: 50px;
+    height: 50px;
+    margin-bottom: -16%;
+    margin-left: -11%;
+}
+#broke3{
+    width: 50px;
+    height: 50px;
+    margin-bottom: -38%;
+    margin-left: -13%;
+}
+#broke4{
+    width: 50px;
+    height: 50px;
+    margin-bottom: -53%;
+    margin-left: -13%;
+}
+
+#broke5{
+    width: 50px;
+    height: 50px;
+    margin-bottom: -66%;
+    margin-left: -10%;
+}
+
+#broke6{
+    width: 50px;
+    height: 50px;
+    margin-bottom: -80%;
+    margin-left:-15% ;
+}
+
+#broke7{
+    width: 50px;
+    height: 50px;
+    margin-bottom: -99%;
+    margin-left: -12%;
+}
+
+
 .bod{
-    background-color: #495057;
+    background-color: #1a1b1d;
     font-family: 'Abel', sans-serif;
      font-family: 'Lora', serif;
      /* font-family: 'Shantell Sans', cursive; */
@@ -224,4 +274,58 @@
 }
 #mixed{
    margin-left: 15%;
+   padding: 18px;
+   border-radius: 5%;
+   padding-inline: 15%;
+   margin-inline: 15%;
+   height: 250px;
+   margin: 8%;
+   margin-left: 26%;
+   background-color: rgb(52, 63, 36);
+   border-color: #7fff00;
+   color: white;
 }
+#stra{
+    padding: 10px;
+    width: 30%;
+    border-radius: 20%;
+    background-color: #7cda1d;
+    color:white;
+  
+    margin-left: 35%;
+}
+.footer{
+    display: flex;
+}
+.footer3{
+    margin-left: 30%;
+}
+.footer2{
+    margin-left: 25%;
+     }
+     .footer{
+      background-color: rgb(67, 65, 65);
+      font-size: medium;
+      color: aliceblue;
+}
+@media screen and (max-width:768px){
+    #beat{
+        width: 100px;
+        height: 100px;
+
+    }
+    #heart{
+        width: 100px;
+        height: 100px;
+
+    }
+    .footer{
+        margin-left: 5%;
+        flex-direction: column;
+    }
+    #moneyy{
+        margin-right: 20%;
+    }
+
+    
+} 
